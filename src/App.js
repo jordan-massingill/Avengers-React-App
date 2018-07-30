@@ -5,8 +5,8 @@ import './App.css';
 class App extends Component {
   constructor() {
     super();
-    this.state: = {
-      Avengers: []
+    this.state = {
+      avengers: ['Iron Man', 'Thor', 'Hank Pym', 'Wasp', 'Hulk', 'Captain America', 'Hawkeye', 'Quicksilver']
     }
   }
 
